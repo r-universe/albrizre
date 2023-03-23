@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DRHotNet"]
+	path = DRHotNet
+	url = https://github.com/cran/DRHotNet
+	shallow = true
+	registered = true
+[submodule "LearnGeom"]
+	path = LearnGeom
+	url = https://github.com/cran/LearnGeom
+	shallow = true
+	registered = true
